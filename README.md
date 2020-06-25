@@ -1,2 +1,7 @@
-# 2020-doodlejump
-doodle jump game by Qt
+# 2020-pd2-DoodleJump
+
+## Video link
+## How to play
+## Requirements
+## Polymorphism
+## Bonus

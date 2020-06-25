@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/char1.png</file>
+        <file>res/platform1.png</file>
+        <file>res/char2.png</file>
+        <file>res/platform2.png</file>
+        <file>res/monster1.png</file>
+        <file>res/monster2.png</file>
+        <file>res/platform3.png</file>
+        <file>res/dood.png</file>
+        <file>res/prop.png</file>
+        <file>res/pause.png</file>
+        <file>res/egg.png</file>
+        <file>res/jetdood_L.png</file>
+        <file>res/jetdood_R.png</file>
+        <file>res/jetpack.png</file>
+        <file>res/hole.png</file>
+        <file>res/platform2_break.png</file>
+        <file>res/invincible1.png</file>
+        <file>res/invincible2.png</file>
+        <file>res/shield.png</file>
+        <file>res/resume.png</file>
+        <file>res/暫停.png</file>
+        <file>res/UFO.png</file>
+        <file>res/menu.png</file>
+        <file>res/play.png</file>
+        <file>res/jungle-bck.png</file>
+        <file>res/jungles.png</file>
+        <file>res/doodle-jump.png</file>
+        <file>res/cover.png</file>
+        <file>res/ice-bck.png</file>
+        <file>res/monster3.png</file>
+        <file>res/hop-bck2.png</file>
+        <file>res/hop-bottom (2).png</file>
+        <file>res/space-bck2.png</file>
+        <file>res/underwater-bck.png</file>
+        <file>res/underwater-light (2).png</file>
+        <file>res/hop_pause.png</file>
+        <file>res/space_pause.png</file>
+        <file>res/underwater_pause.png</file>
+    </qresource>
+</RCC>
