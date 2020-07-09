@@ -52,12 +52,12 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
+    shield *sd;
     QGraphicsScene *scene;
     QGraphicsPixmapItem *player,*pausebg,*line;
     QTimer *timer,*b_timer;
     bullet *b;
     jetpack *jet;
-    shield *sd;
     hole *ho;
     trampo *trp;
     vector<platform*> plf_ptr;

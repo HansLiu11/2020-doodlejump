@@ -161,6 +161,7 @@ void MainWindow::sethard(){
     case 0:
         hole_est = true;
         while(1){
+            collide = false;
             ho = new hole;
             for(int i=0;i< Plat_size;++i){
                 c = static_cast<unsigned long>(i);
@@ -181,6 +182,7 @@ void MainWindow::sethard(){
     break;
     case 1:
         while(1){      //generate monster and detect the intersection between plf&plf2
+            collide = false;
             do{d = rand() % Plat_size;}while(plf_ptr.at(d)->y()+plf_ptr.at(d)->pixmap().height() >0);
             ptr = genmonst(plf_ptr.at(d));
             for(int i=0;i< Plat_size;++i){
